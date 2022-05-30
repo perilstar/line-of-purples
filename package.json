@@ -2,7 +2,7 @@
   "name": "line-of-purples-theme",
   "displayName": "Line of Purples Theme",
   "description": "A theme for purple enjoyers that's easy on the eyes.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/perilstar/line-of-purples"
@@ -14,10 +14,12 @@
     "Themes"
   ],
   "contributes": {
-    "themes": [{
-      "label": "Line of Purples",
-      "uiTheme": "vs-dark",
-      "path": "./themes/Line of Purples-color-theme.json"
-    }]
+    "themes": [
+      {
+        "label": "Line of Purples",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Line of Purples-color-theme.json"
+      }
+    ]
   }
 }
