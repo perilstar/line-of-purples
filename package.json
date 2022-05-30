@@ -1,9 +1,10 @@
 {
   "name": "line-of-purples-theme",
   "displayName": "Line of Purples Theme",
-  "description": "A theme for purple enjoyers that's easy on the eyes.",
+  "description": "A dark theme for purple enjoyers.",
   "icon": "images/icon.png",
   "version": "0.1.0",
+  "publisher": "cinderwolf",
   "repository": {
     "type": "git",
     "url": "https://github.com/perilstar/line-of-purples"
